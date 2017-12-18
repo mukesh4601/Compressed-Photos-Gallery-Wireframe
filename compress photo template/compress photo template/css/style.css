@@ -1,0 +1,63 @@
+.mukesh{
+    margin-top: 100px;
+    margin-bottom: 70px;
+}
+
+
+.mukesh1{
+    margin-right: 20px;
+    width: 380px;
+    height: 280px;
+    margin-top: 20px;
+}
+
+.mukesh1 img{
+    width: 100%;
+    height: 250px;
+}
+
+.photos{
+    margin-bottom: 20px;
+}
+
+footer{
+    background-color: #d7f9f9;
+    padding: 20px 0;
+}
+
+.mukesh2{
+    margin-right: 20px;
+    width: 280px;
+    height: 300px;
+    margin-top: 20px;
+}
+
+.mukesh2 img{
+    width: 100%;
+    height: 250px;
+}
+
+@media (max-width:767px){
+    
+    .mukesh2{
+    margin-right: 20px;
+    width: 380px;
+    height: 300px;
+    margin-top: 20px;
+}
+}
+
+@media (max-width:467px){
+    
+    .mukesh2{
+    margin-right: 20px;
+    width: 420px;
+    height: 400px;
+    margin-top: 20px;
+}
+
+.mukesh2 img{
+    width: 100%;
+    height: 350px;
+}
+}
